@@ -57,6 +57,9 @@ ul.timeline>li:before{
   height:4em;}
 .account p{
   margin:0;}
+.align-items-center{
+  text-align: center;
+}
 @media (min-width: 768px){
   .pt-md-10{
     padding-top: 6rem !important;}
